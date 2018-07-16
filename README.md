@@ -24,6 +24,7 @@ src = "https://user-images.githubusercontent.com/22201958/42727491-b25fdd2e-8775
 
 <div style="float:right; margin:0px 0px 0px 15px; padding:80px 0px 80px 0px">
 
+### The Quiz
 
 From pool of 20 questions, 5 questions are asked along with 4 options to choose from. With correct answer player is notified with a sound and on wrong answer swing animation is played.
 </div>
@@ -37,8 +38,6 @@ src="https://user-images.githubusercontent.com/22201958/42727492-b26dd276-8775-1
 </div>
 
 <div  style="float:left; margin:0px 0px 0px 15px; padding:80px 0px 80px 0px>
-
-### The Quiz
 
 According to correct answers player is displayed whether he/she needs to play again or has passed the quiz.
 </div>
