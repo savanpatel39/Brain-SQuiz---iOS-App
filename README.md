@@ -12,7 +12,7 @@ _________________
 <br/>
 <br/>
 <p>
-A simple application welcome screen. In reorder to start quiz, player needs to enter his/her name. Validation prevents player to play without entering name.
+A simple application welcome screen. In order to the start quiz, player needs to enter his/her name. Validation prevents player to play without entering name.
 </p>
 
 <br/>
