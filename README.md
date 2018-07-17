@@ -10,7 +10,6 @@ _________________
 <br/>
 <br/>
 <br/>
-<br/>
 
 ### Welcome Screen
 
@@ -33,7 +32,6 @@ src = "https://user-images.githubusercontent.com/22201958/42727491-b25fdd2e-8775
 <br/>
 <br/>
 <br/>
-<br/>
 
 ### The Quiz
 
@@ -53,7 +51,6 @@ __________________________
 <img  align="right" 
 src="https://user-images.githubusercontent.com/22201958/42727492-b26dd276-8775-11e8-8870-cff04b48b673.jpg">
 
-<br/>
 <br/>
 <br/>
 <br/>
