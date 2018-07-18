@@ -1,4 +1,4 @@
-# Brain-SQuiz---iOS-App
+# Brain SQuiz - iOS App
 
 _________________
 
